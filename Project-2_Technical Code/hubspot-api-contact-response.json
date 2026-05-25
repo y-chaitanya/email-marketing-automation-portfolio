@@ -1,0 +1,63 @@
+{
+  "_comment": "Sample HubSpot CRM API response — GET /crm/v3/contacts/{id}",
+  "_purpose": "Demonstrates JSON data structure literacy for CRM API integration",
+  "_scenario": "State Fund employer contact record retrieved via HubSpot REST API",
+
+  "id": "10421",
+  "properties": {
+    "firstname": "Maria",
+    "lastname": "Torres",
+    "email": "maria.torres@testemployer.com",
+    "company": "Torres Construction LLC",
+    "jobtitle": "Operations Manager",
+    "city": "San Diego",
+    "state": "California",
+    "lifecyclestage": "lead",
+    "hs_lead_status": "NEW",
+    "account_status": "active",
+    "signup_date": "2026-03-15",
+    "last_login_date": null,
+    "claims_filed": "0",
+    "industry_group": "Construction",
+    "email_opened": "true",
+    "cta_clicked": "false",
+    "utm_source": "hubspot",
+    "utm_medium": "email",
+    "utm_campaign": "welcome-onboarding",
+    "createdate": "2026-03-15T09:22:41.000Z",
+    "lastmodifieddate": "2026-05-01T14:33:07.000Z",
+    "hs_object_id": "10421"
+  },
+  "createdAt": "2026-03-15T09:22:41.000Z",
+  "updatedAt": "2026-05-01T14:33:07.000Z",
+  "archived": false,
+
+  "_workflow_context": {
+    "enrolled_in_workflow": "EBA Welcome Onboarding",
+    "enrollment_trigger": "list_membership",
+    "list_name": "State Fund Portfolio — Active Employers",
+    "branch_condition": "email_opened = true",
+    "branch_result": "nurture_path",
+    "next_action": "send_nurture_followup_email",
+    "delay_hours": 48
+  },
+
+  "_utm_tracking": {
+    "source": "hubspot",
+    "medium": "email",
+    "campaign": "welcome-onboarding",
+    "content": "access-account-btn",
+    "ga4_session_recorded": true,
+    "ga4_property": "State Fund Portfolio",
+    "looker_studio_dashboard": "May Campaign Performance"
+  },
+
+  "_api_metadata": {
+    "endpoint": "GET https://api.hubapi.com/crm/v3/contacts/10421",
+    "auth_method": "Bearer token",
+    "response_format": "JSON",
+    "status_code": 200,
+    "response_time_ms": 187,
+    "tested_with": "Postman v10"
+  }
+}
