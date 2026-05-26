@@ -1,7 +1,6 @@
 ## Project 1 — HubSpot End-to-End Marketing Automation Campaign
 
-Built a complete end-to-end automated email campaign in HubSpot
-Marketing Hub demonstrating full automation lifecycle management.
+Built a complete end-to-end automated email campaign in HubSpot Marketing demonstrating full automation lifecycle management.
 
 ### What Was Built
 - Imported a segmented contact list of 8 employer contacts
@@ -15,17 +14,19 @@ Marketing Hub demonstrating full automation lifecycle management.
 - Set up GA4 web stream for campaign performance tracking
 
 ### Screenshots
-01 - Contact list with 8 active employer contacts
-02 - Welcome email HTML build with UTM CTA button
-03 - Enrollment trigger set to State Fund Portfolio segment
-04 - Complete EBA workflow with branch logic visible
-05 - Welcome email rendered preview
-06 - GA4 property and web stream configuration
-07 - UTM parameters visible in URL confirming tracking setup
+- [Contact list with 8 active employer contacts](./01-contact-list-8-active-employers.png)
+- [Welcome email HTML build with UTM CTA button](./02-Welcome-Email-HtMlBuild.png)
+- [Enrollment trigger set to State Fund Portfolio segment](./03-enrollment-trigger-segment-membership.png)
+- [Complete EBA workflow with branch logic visible](./04-EBA-Workflow-Complete-Branch-Logic.png)
+- [Welcome email rendered preview](./05-Welcome-Email-Preview-HTML-Rendered.png)
+- [GA4 property and web stream configuration](./06-GAproperty-setup.png)
+- [UTM parameters visible in URL confirming tracking setup](./07-UTM-parameters-Live-in-URL.png)
 
 ### Tools Used
-HubSpot Marketing Hub | Google Analytics 4 |
-HTML/CSS | UTM Parameter Architecture
+* HubSpot Marketing Hub
+* Google Analytics 4
+* HTML/CSS
+* UTM Parameter Architecture
 
 ### Certifications Supporting This Build
 - Google Analytics 4 — Google Skillshop 2026
