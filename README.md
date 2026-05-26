@@ -3,7 +3,7 @@
 ---
 ## About This Portfolio
 
-I am a Software Engineer returning to the workforce, combining a CS Engineering foundation with recent hands-on marketing automation work. This portfolio was built in May 2026 to demonstrate practical skills across the full marketing automation technical stack. From SQL audience segmentation through HTML email construction to CRM API integration and campaign analytics.
+I combine a Computer Science Engineering foundation with recent hands-on marketing automation work. This portfolio is built in May 2026 to demonstrate practical skills across the full marketing automation technical stack. From SQL audience segmentation through HTML email construction to CRM API integration and campaign analytics.
 
 Every project here is real. Every file is something I built, ran, and can explain in detail.
 
@@ -14,7 +14,7 @@ Every project here is real. Every file is something I built, ran, and can explai
 |---|---|---|
 | Enrolled Agent (EA) License | IRS — Federal Credential | April 2026 |
 | Google Analytics 4 (GA4) | Google Skillshop | May 2026 — 90% |
-| HubSpot Marketing Hub Software | HubSpot Academy | May 2026 |
+| HubSpot Marketing Hub Software | HubSpot Academy | May 2026 - 88% |
 | HubSpot Email Marketing | HubSpot Academy | May 2026 — 83% |
 
 ---
@@ -31,8 +31,8 @@ A complete automated email campaign in HubSpot Marketing Hub — from contact im
 - Imported 8 employer contacts into HubSpot and created a static list — State Fund Portfolio Active Employers
 - Built a 3-step branching workflow using EBA logic — Enrollment trigger activates on list membership, welcome email deploys immediately, 48-hour delay fires, then an If/Then branch routes contacts who opened into a nurture sequence and contacts who did not open into a re-engagement path
 - Constructed the welcome email inside HubSpot's custom HTML editor — not the drag-and-drop builder — using nested table structures and inline CSS for rendering consistency across Outlook, Gmail, and Apple Mail
-- Added UTM parameters to every CTA link — source, medium, campaign — and confirmed attribution data populated in GA4 real-time view within seconds of test send
-- Validated deliverability using Mail-Tester and confirmed SPF and DKIM authentication before activation
+- Added UTM parameters to every CTA link — source, medium, campaign — and confirmed attribution data populated in GA4 real-time view within seconds of test send.
+- Validated deliverability using Mail-Tester and confirmed SPF and DKIM authentication before activation.
 - Connected GA4 property to Looker Studio and built a campaign performance dashboard tracking sessions by UTM source and conversion events
 
 ### Files In This Project
@@ -55,7 +55,7 @@ A complete automated email campaign in HubSpot Marketing Hub — from contact im
 
 ### What I Built
 
-A set of production-quality code files demonstrating the technical layer underneath every marketing automation campaign — the SQL that segments the audience, the HTML that constructs the email, and the JSON that documents how CRM API data is structured.
+A set of production quality code files demonstrating the technical layer underneath every marketing automation campaign — the SQL that segments the audience, the HTML that constructs the email, and the JSON that documents how CRM API data is structured.
 
 ### What I Did
 
@@ -118,7 +118,7 @@ Location G is the largest audience at 15,645 emails but has a lower average subj
 
 ---
 
-## Project 4 — Looker Studio Campaign Dashboard
+## Addon to Project 1 — Looker Studio Campaign Dashboard
 
 **Skills:** Google Looker Studio · GA4 Integration · Dashboard Design · Campaign Attribution · UTM Reporting
 
@@ -155,7 +155,7 @@ A live campaign performance dashboard in Google Looker Studio connected to my GA
 | REST API endpoint knowledge | Project 2 — API metadata in JSON |
 | Postman API testing | Project 2 — 200 OK screenshot |
 | GA4 analytics | Project 1 — GA4 property setup |
-| Looker Studio dashboard | Project 4 — live dashboard screenshot |
+| Looker Studio dashboard | Project 1 — live dashboard screenshot |
 | Deliverability validation | Project 1 — Mail-Tester confirmed |
 | SPF DKIM DMARC | Project 1 — authentication validated |
 
