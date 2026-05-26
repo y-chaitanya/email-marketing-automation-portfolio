@@ -3,11 +3,10 @@
 ---
 ## About This Portfolio
 
-I am a Software Engineer returning to the workforce after raising my family, combining a CS Engineering foundation with recent hands-on marketing automation work. This portfolio was built in May 2026 to demonstrate practical skills across the full marketing automation technical stack. From SQL audience segmentation through HTML email construction to CRM API integration and campaign analytics.
+I am a Software Engineer returning to the workforce, combining a CS Engineering foundation with recent hands-on marketing automation work. This portfolio was built in May 2026 to demonstrate practical skills across the full marketing automation technical stack. From SQL audience segmentation through HTML email construction to CRM API integration and campaign analytics.
 
 Every project here is real. Every file is something I built, ran, and can explain in detail.
 
-**GitHub:** github.com/y-chaitanya/email-marketing-automation-portfolio
 ---
 ## Certifications Supporting This Work
 
