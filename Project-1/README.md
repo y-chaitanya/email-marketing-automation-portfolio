@@ -21,10 +21,12 @@ Built a complete end-to-end automated email campaign in HubSpot Marketing demons
 - [Welcome email rendered preview](./05-Welcome-Email-Preview-HTML-Rendered.png)
 - [GA4 property and web stream configuration](./06-GAproperty-setup.png)
 - [UTM parameters visible in URL confirming tracking setup](./07-UTM-parameters-Live-in-URL.png)
+- [Looker Studio campaign dashboard](./09-looker-studio-dashboard.png)
 
 ### Tools Used
 * HubSpot Marketing Hub
 * Google Analytics 4
+* Looker Studio
 * HTML/CSS
 * UTM Parameter Architecture
 
